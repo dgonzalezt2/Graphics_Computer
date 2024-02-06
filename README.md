@@ -1,9 +1,5 @@
 # Graphichs computer course
 
-![Imagen 1](https://github.com/dgonzalezt2/Graphics_Computer/assets/81880494/014287a9-ae73-4cbc-8183-241389e98f7d | width=100)
-
-![Imagen 2](https://github.com/dgonzalezt2/Graphics_Computer/assets/81880494/82ad12b5-bb39-474d-b3e1-72922c46e160 | width=50%)
-
 # Members
 * [David Gonzalez](https://github.com/dgonzalezt2)
 * [Hobarlan Uparela](https://github.com/huparelaa)
@@ -34,3 +30,7 @@ into this:
 ```java
 readFile("drawFromTextFile/house.txt", g);
 ```
+
+# Images where you can see the code running
+![image](https://github.com/dgonzalezt2/Graphics_Computer/assets/81880494/014287a9-ae73-4cbc-8183-241389e98f7d)
+![image](https://github.com/dgonzalezt2/Graphics_Computer/assets/81880494/82ad12b5-bb39-474d-b3e1-72922c46e160)

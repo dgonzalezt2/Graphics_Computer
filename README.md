@@ -1,5 +1,9 @@
 # Graphichs computer course
 
+# Members
+* [David Gonzalez](https://github.com/dgonzalezt2)
+* [Hobarlan Uparela](https://github.com/huparelaa)
+
 ## Content:
 * [Bresenham](#Bresenham)
 * [Images from text file](#Draw-from-text-file)

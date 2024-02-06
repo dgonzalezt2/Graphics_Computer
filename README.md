@@ -1,5 +1,7 @@
 # Graphichs computer course
 
+![image](https://github.com/dgonzalezt2/Graphics_Computer/assets/81880494/014287a9-ae73-4cbc-8183-241389e98f7d)
+
 # Members
 * [David Gonzalez](https://github.com/dgonzalezt2)
 * [Hobarlan Uparela](https://github.com/huparelaa)
